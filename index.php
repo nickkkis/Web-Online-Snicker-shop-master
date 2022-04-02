@@ -17,6 +17,7 @@
             <div class="square" style="--i:4;"></div>
             <div class="container">
                 <div class="form">
+                    
                     <h2>Login</h2>
                     <form action="action/lg.php" method="POST">
                         <?php if (isset($_GET['error'])) { ?>
