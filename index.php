@@ -23,6 +23,7 @@
                             <span class="error"><?php echo $_GET['error']; ?></span>
                         <?php }
                         
+                        
                         if (isset($_GET['cor'])) { ?>
                             <span class="cor"><?php echo $_GET['cor']; ?></span>
                         <?php }
